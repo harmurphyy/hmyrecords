@@ -1,0 +1,1333 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--==================== UNICONS ====================-->
+    <link
+      rel="stylesheet"
+      href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"
+    />
+
+    <link rel="stylesheet" href="./packages/css/swiper-bundle.min.css" />
+    <!--==================== CSS ====================-->
+    <link rel="stylesheet" href="./packages/css/styles.css" />
+
+    <title>Harmurphyy - Recent Works</title>
+  </head>
+  <body>
+    <!--==================== HEADER ====================-->
+    <header class="header" id="header">
+      <nav class="nav container">
+        <a href="./index.html" class="nav__logo">harmurphyy</a>
+        <div class="nav__menu" id="nav-menu">
+          <ul class="nav__list grid">
+            <li class="nav__item">
+              <a href="./index.html" class="nav__link">
+                <i class="uil uil-user nav__icon"></i>About
+              </a>
+            </li>
+            <li class="nav__item">
+              <a href="#" class="nav__link">
+                <i class="uil uil-file-alt nav__icon"></i>Works
+              </a>
+            </li>
+            <li class="nav__item">
+              <a href="./contact.html" class="nav__link">
+                <i class="uil uil-message nav__icon"></i>Contact
+              </a>
+            </li>
+          </ul>
+          <i class="uil uil-times nav__close" id="nav-close"></i>
+        </div>
+        <div class="nav__btns">
+          <!-- Theme change button -->
+
+          <i class="uil uil-moon change-theme" id="theme-button"></i>
+
+          <div class="nav__toggle" id="nav-toggle">
+            <i class="uil uil-apps"></i>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!--==================== MAIN ====================-->
+    <main class="main">
+      <section class="section" style="margin-top: 5vh">
+        <h2 class="section__title">Sound Cloud</h2>
+        <span class="section__subtitle">Some of my Past Works</span>
+
+        <div class="works__container container">
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1305716653&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/harmurphyy"
+                title="Harmurphyy"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Harmurphyy</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/harmurphyy/cold-embrace-feat-hellish-1"
+                title="Cold Embrace (feat. Hellish)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Cold Embrace (feat. Hellish)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1305716638&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/harmurphyy"
+                title="Harmurphyy"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Harmurphyy</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/harmurphyy/cold-embrace-feat-hellish"
+                title="Cold Embrace (feat. Hellish &amp; Deadlilium) [Deadlilium Remix]"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Cold Embrace (feat. Hellish &amp; Deadlilium) [Deadlilium
+                Remix]</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1118906725&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/harmurphyy"
+                title="Harmurphyy"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Harmurphyy</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/harmurphyy/in-the-end"
+                title="It Feels Like There Is No One To Help (feat. Stitch)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >It Feels Like There Is No One To Help (feat. Stitch)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1118906758&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/harmurphyy"
+                title="Harmurphyy"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Harmurphyy</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/harmurphyy/back-to-black"
+                title="One Thought Remained (feat. Anna Green)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >One Thought Remained (feat. Anna Green)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1118906770&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/harmurphyy"
+                title="Harmurphyy"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Harmurphyy</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/harmurphyy/leave-out-all-the-rest-1"
+                title="So Lost i Feel Disaranged (feat. Moezer &amp; Deadlilium)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >So Lost i Feel Disaranged (feat. Moezer &amp; Deadlilium)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1264112161&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/heart-lesion"
+                title="Heart Lesion"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Heart Lesion</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1243844593&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/god-hit"
+                title="GOD $HIT"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >GOD $HIT</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463427&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/dead-inside"
+                title="Dead Inside"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Dead Inside</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463421&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/misunderstood-1"
+                title="Misunderstood"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Misunderstood</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463415&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/sos"
+                title="SOS"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >SOS</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463403&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/lost-cause"
+                title="Lost Cause"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Lost Cause</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463394&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/detrimental"
+                title="Detrimental"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Detrimental</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463388&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/devils-on-my-mental-prod"
+                title="Devils On My Mental (Prod. LankyBeats)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Devils On My Mental (Prod. LankyBeats)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463376&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/meaningless-flow"
+                title="Meaningless Flow"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Meaningless Flow</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463373&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/hydrangea"
+                title="Hydrangea"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Hydrangea</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202463367&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/circle-back"
+                title="Circle Back"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Circle Back</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1114321294&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/work-in-progress"
+                title="Work In Progress (prod. Harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Work In Progress (prod. Harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1006864705&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/im-too-great-prod-harmurphyy"
+                title="I&#x27;m Too Great (prod. Harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >I&#x27;m Too Great (prod. Harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/984450823&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/blurred-mind-prod-harmurphyy"
+                title="Blurred Mind (prod. harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Blurred Mind (prod. harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1127134357&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/bootleg"
+                title="BOOTLEG (Prod. Harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >BOOTLEG (Prod. Harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1014769015&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/user-225124999"
+                title="The Unknown"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >The Unknown</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/user-225124999/rdy-get-set"
+                title="Rdy Get Set ( Prod By: Harmurphyy )"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Rdy Get Set ( Prod By: Harmurphyy )</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/984450823&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/blurred-mind-prod-harmurphyy"
+                title="Blurred Mind (prod. harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Blurred Mind (prod. harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1006864705&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159"
+                title="Deadlilium"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deadlilium</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/zach-lancaster-364056159/im-too-great-prod-harmurphyy"
+                title="I&#x27;m Too Great (prod. Harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >I&#x27;m Too Great (prod. Harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1020212959&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/renztoicism"
+                title="ydkm"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >ydkm</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/renztoicism/kiss"
+                title="kiss (prod. by Harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >kiss (prod. by Harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1124668657&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/user-448454311-570623433"
+                title="Happy the Jester"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Happy the Jester</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/user-448454311-570623433/paradise-ft-sid-dah-kid-prod-harmurphyy"
+                title="Paradise Ft. Sid Dah Kid (Prod. Harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Paradise Ft. Sid Dah Kid (Prod. Harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1209428182&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/risto17"
+                title="Risto"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Risto</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/risto17/heaven-cry"
+                title="Heaven Cry (prod. Harmurphyy)"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Heaven Cry (prod. Harmurphyy)</a
+              >
+            </div>
+          </div>
+
+          <div>
+            <iframe
+              width="100%"
+              height="300"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1251625819&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            ></iframe>
+            <div
+              style="
+                font-size: 10px;
+                color: #cccccc;
+                line-break: anywhere;
+                word-break: normal;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+                  Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+                font-weight: 100;
+              "
+            >
+              <a
+                href="https://soundcloud.com/deathsample"
+                title="Deathsample"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Deathsample</a
+              >
+              ·
+              <a
+                href="https://soundcloud.com/deathsample/sets/futurebrights"
+                title="Futurebrights"
+                target="_blank"
+                style="color: #cccccc; text-decoration: none"
+                >Futurebrights</a
+              >
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 class="section__title">Spotify</h2>
+        <span class="section__subtitle">Some of my Past Works</span>
+
+        <div class="works__container container">
+          <div class="work_card">
+            <iframe
+              style="border-radius: 12px"
+              src="https://open.spotify.com/embed/track/6CdzJ2itwzcpW1RwQ1tFI5?utm_source=generator"
+              width="100%"
+              height="352"
+              frameborder="0"
+              allowfullscreen=""
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              loading="lazy"
+            ></iframe>
+          </div>
+
+          <div class="work_card">
+            <iframe
+              style="border-radius: 12px"
+              src="https://open.spotify.com/embed/track/0MrZt5A0abjC5tlk3tKauA?utm_source=generator"
+              width="100%"
+              height="352"
+              frameborder="0"
+              allowfullscreen=""
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              loading="lazy"
+            ></iframe>
+          </div>
+
+          <div class="work_card">
+            <iframe
+              style="border-radius: 12px"
+              src="https://open.spotify.com/embed/track/0wcqE4Py3YxYfPsy46Jv8N?utm_source=generator"
+              width="100%"
+              height="352"
+              frameborder="0"
+              allowfullscreen=""
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              loading="lazy"
+            ></iframe>
+          </div>
+
+          <div class="work_card">
+            <iframe
+              style="border-radius: 12px"
+              src="https://open.spotify.com/embed/track/5tPC5SYRoGhNwrNW03SafQ?utm_source=generator"
+              width="100%"
+              height="352"
+              frameborder="0"
+              allowfullscreen=""
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              loading="lazy"
+            ></iframe>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 class="section__title">Youtube</h2>
+        <span class="section__subtitle">Some of my Past Works</span>
+
+        <div class="works__container container">
+          <div class="work_card">
+            <iframe
+              width="100%"
+              height="300"
+              src="https://www.youtube.com/embed/hIgVnmpkVd4"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+          <div class="work_card">
+            <iframe
+              width="100%"
+              height="300"
+              src="https://www.youtube.com/embed/tBMYhd1xXHg"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+          <div class="work_card_3">
+            <iframe
+              width="100%"
+              height="300"
+              src="https://www.youtube.com/embed/aCTAu7shn8Y"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!--==================== FOOTER ====================-->
+    <footer class="footer">
+      <div class="footer__bg">
+        <div class="footer__container container grid">
+          <div>
+            <h1 class="footer__title">harmurphyy</h1>
+          </div>
+
+          <ul class="footer__links">
+            <li>
+              <a href="./index.html" class="footer__link">About</a>
+            </li>
+            <li>
+              <a href="#" class="footer__link">Works</a>
+            </li>
+            <li>
+              <a href="./contact.html" class="footer__link">Contact</a>
+            </li>
+          </ul>
+
+          <div class="footer__socials">
+            <a
+              href="https://www.youtube.com/harmurphyy/"
+              target="_blank"
+              class="footer__social"
+            >
+              <i class="uil uil-youtube"></i>
+            </a>
+            <a
+              href="https://www.instagram.com/harmurphyy/"
+              target="_blank"
+              class="footer__social"
+            >
+              <i class="uil uil-instagram"></i>
+            </a>
+            <a
+              href="https://www.twitter.com/harmurphyy/"
+              target="_blank"
+              class="footer__social"
+            >
+              <i class="uil uil-twitter-alt"></i>
+            </a>
+          </div>
+        </div>
+        <p class="footer__copy">
+          &#169; 2023, Harmurphyy. All rights reserved.
+        </p>
+      </div>
+    </footer>
+
+    <!--==================== SCROLL TOP ====================-->
+    <a href="#" class="scrollup" id="scroll-up">
+      <i class="uil uil-arrow-up scrollup__icon"></i>
+    </a>
+
+    <script src="./packages/js/swiper-bundle.min.js"></script>
+    <!--==================== MAIN JS ====================-->
+    <script src="./packages/js/main.js"></script>
+  </body>
+</html>
